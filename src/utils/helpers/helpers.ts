@@ -13,8 +13,6 @@ export const helpers = {
         return clothesData[outfitType];
     },
     checkOutfitLayer: (outfitPart: string): string => {
-        console.log(outfitPart);
-        
         if (constants.outfitLayers.top.includes(outfitPart)) {
             return 'top';
         } else if (constants.outfitLayers.bottom.includes(outfitPart)) {

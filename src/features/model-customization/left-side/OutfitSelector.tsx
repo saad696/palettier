@@ -1,5 +1,4 @@
 import { Button, Empty, Select } from 'antd';
-import React from 'react';
 import { helpers } from '../../../utils/helpers/helpers';
 import { useDispatch } from 'react-redux';
 import {

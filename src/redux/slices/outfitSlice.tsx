@@ -60,8 +60,6 @@ export const outfitSlice = createSlice({
             state.outfitType = action.payload;
         },
         setSelectedOutfitSubType: (state, action: PayloadAction<string>) => {
-            console.log(action.payload);
-            
             state.outfitSubType = action.payload.toLowerCase();
         },
         setSelectedOutfitData: (
@@ -93,8 +91,6 @@ export const outfitSlice = createSlice({
             state,
             action: PayloadAction<{ layer: string; images: Tone }>
         ) => {
-            console.log(action.payload);
-            
             if (action.payload.layer === 'top') {
                 state.outfit.top = action.payload.images;
             } else if (action.payload.layer === 'bottom') {

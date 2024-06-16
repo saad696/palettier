@@ -107,7 +107,6 @@ const ClothesLayer: React.FC<{
 
 const Model = () => {
     const outfit = useAppSelector((state: RootState) => state.outfit.outfit);
-console.log(outfit);
 
     return (
         <div id='model-container'>

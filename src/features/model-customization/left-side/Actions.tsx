@@ -1,5 +1,4 @@
 import { Button } from 'antd';
-import React from 'react';
 import useDownloadSection from '../../../hooks/useDownloadSection';
 
 const Actions = () => {

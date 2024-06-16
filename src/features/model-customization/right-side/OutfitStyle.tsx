@@ -31,8 +31,6 @@ const OutfitStyle: React.FC<OutfitStyleProps> = ({ data, outfitName }) => {
 
     const onLengthSelected = (images: Tone) => {
         const layer = helpers.checkOutfitLayer(outfitName);
-        console.log(outfitName);
-        
         dispatch(setOutfit({ layer, images }));
     };
 

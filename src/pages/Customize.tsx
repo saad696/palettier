@@ -1,5 +1,4 @@
 import { Col, Row } from 'antd';
-import React from 'react';
 import { CustomizeCenterSide, CustomizeLeftSide, OptionsBox } from '..';
 
 const Customize = () => {

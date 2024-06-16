@@ -1,4 +1,3 @@
-import React from 'react';
 import { constants } from '../../../data/constants';
 import { useAppDispatch } from '../../../hooks/toolkitHooks';
 import { setSkinTone } from '../../../redux/slices/outfitSlice';

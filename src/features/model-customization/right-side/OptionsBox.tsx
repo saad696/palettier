@@ -54,13 +54,6 @@ const OptionsBox = () => {
             outfitData.filter((x) => x.title.toLowerCase() === outfitSubType)[0]
                 ?.type
         );
-
-        console.log(
-            outfitData,
-            outfitSubType,
-            outfitData.filter((x) => x.title.toLowerCase() === outfitSubType)[0]
-                ?.type
-        );
     }, [outfitSubType]);
 
     return (
