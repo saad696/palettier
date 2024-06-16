@@ -1,0 +1,29 @@
+{
+    "data": {
+        "FAD5B6": {
+            "base": "invert(89%) sepia(12%) saturate(900%) hue-rotate(329deg) brightness(99%) contrast(98%)",
+            "darken": "invert(91%) sepia(7%) saturate(2864%) hue-rotate(317deg) brightness(94%) contrast(91%)",
+            "highlight": "invert(80%) sepia(4%) saturate(3724%) hue-rotate(322deg) brightness(119%) contrast(101%)"
+        },
+        "FAC7AA": {
+            "base": "invert(81%) sepia(40%) saturate(431%) hue-rotate(320deg) brightness(101%) contrast(96%)",
+            "darken": "invert(93%) sepia(8%) saturate(3740%) hue-rotate(305deg) brightness(102%) contrast(80%)",
+            "highlight": "invert(83%) sepia(5%) saturate(2046%) hue-rotate(328deg) brightness(103%) contrast(104%)"
+        },
+        "D6A183": {
+            "base": "invert(73%) sepia(20%) saturate(629%) hue-rotate(338deg) brightness(91%) contrast(88%)",
+            "darken": "invert(59%) sepia(8%) saturate(1922%) hue-rotate(337deg) brightness(97%) contrast(91%)",
+            "highlight": "invert(80%) sepia(8%) saturate(1511%) hue-rotate(335deg) brightness(91%) contrast(88%)"
+        },
+        "BF8E6F": {
+            "base": "invert(59%) sepia(44%) saturate(342%) hue-rotate(340deg) brightness(94%) contrast(85%)",
+            "darken": "invert(59%) sepia(11%) saturate(1785%) hue-rotate(339deg) brightness(83%) contrast(81%)",
+            "highlight": "invert(68%) sepia(9%) saturate(1244%) hue-rotate(340deg) brightness(92%) contrast(91%)"
+        },
+        "9A6948": {
+            "base": "invert(43%) sepia(15%) saturate(1408%) hue-rotate(340deg) brightness(96%) contrast(83%)",
+            "darken": "invert(32%) sepia(80%) saturate(332%) hue-rotate(341deg) brightness(92%) contrast(90%)",
+            "highlight": "invert(49%) sepia(7%) saturate(2731%) hue-rotate(341deg) brightness(93%) contrast(83%)"
+        }
+    }
+}

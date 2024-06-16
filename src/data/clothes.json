@@ -1,0 +1,1333 @@
+{
+    "data": {
+        "lehenga_set": [
+            {
+                "title": "Lehenga",
+                "zindex": 2,
+
+                "type": {
+                    "title": "Type",
+                    "options": [
+                        {
+                            "title": "lehenga",
+                            "options": [
+                                {
+                                    "title": "Aline",
+                                    "length": [
+                                        {
+                                            "title": "Floor Full Length",
+                                            "image": {
+                                                "front": {
+                                                    "base": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/lehenga/aline/floor_full_length/front/floor_full_length_aline_base_f.png",
+                                                    "highlight": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/lehenga/aline/floor_full_length/front/floor_full_length_aline_highlight_f.png",
+                                                    "darken": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/lehenga/aline/floor_full_length/front/floor_full_length_aline_shadow_f.png"
+                                                },
+                                                "back": {
+                                                    "base": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/lehenga/aline/floor_full_length/back/floor_full_length_aline_base_b.png",
+                                                    "highlight": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/lehenga/aline/floor_full_length/back/floor_full_length_aline_highlight_b.png",
+                                                    "darken": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/lehenga/aline/floor_full_length/back/floor_full_length_aline_shadow_b.png"
+                                                }
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "title": "Box Pleat Lehenga",
+                                    "length": [
+                                        {
+                                            "title": "Floor Full Length",
+                                            "image": {
+                                                "front": {
+                                                    "base": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/lehenga/box_pleat_lehenga/floor_full_length/front/floor_full_length_box_pleat_lehenga_base_f.png",
+                                                    "highlight": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/lehenga/box_pleat_lehenga/floor_full_length/front/floor_full_length_box_pleat_lehenga_highlight_f.png",
+                                                    "darken": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/lehenga/box_pleat_lehenga/floor_full_length/front/floor_full_length_box_pleat_lehenga_shadow_f.png"
+                                                },
+                                                "back": {
+                                                    "base": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/lehenga/box_pleat_lehenga/floor_full_length/back/floor_full_length_box_pleat_lehenga_base_b.png",
+                                                    "highlight": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/lehenga/box_pleat_lehenga/floor_full_length/back/floor_full_length_box_pleat_lehenga_highlight_b.png",
+                                                    "darken": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/lehenga/box_pleat_lehenga/floor_full_length/back/floor_full_length_box_pleat_lehenga_shadow_b.png"
+                                                }
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "title": "Gethered Lehenga",
+                                    "length": [
+                                        {
+                                            "title": "Floor Full Length",
+                                            "image": {
+                                                "front": {
+                                                    "base": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/lehenga/gethered_lehenga/floor_full_length/front/floor_full_length_gethered_lehenga_base_f.png",
+                                                    "highlight": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/lehenga/gethered_lehenga/floor_full_length/front/floor_full_length_gethered_lehenga_highlight_f.png",
+                                                    "darken": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/lehenga/gethered_lehenga/floor_full_length/front/floor_full_length_gethered_lehenga_shadow_f.png"
+                                                },
+                                                "back": {
+                                                    "base": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/lehenga/gethered_lehenga/floor_full_length/back/floor_full_length_gethered_lehenga_base_b.png",
+                                                    "highlight": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/lehenga/gethered_lehenga/floor_full_length/back/floor_full_length_gethered_lehenga_highlight_b.png",
+                                                    "darken": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/lehenga/gethered_lehenga/floor_full_length/back/floor_full_length_gethered_lehenga_shadow_b.png"
+                                                }
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "title": "Mermaid Lehenga",
+                                    "length": [
+                                        {
+                                            "title": "Floor Full Length",
+                                            "image": {
+                                                "front": {
+                                                    "base": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/lehenga/mermaid_lehenga/floor_full_length/front/floor_full_length_mermaid_lehenga_base_f.png",
+                                                    "highlight": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/lehenga/mermaid_lehenga/floor_full_length/front/floor_full_length_mermaid_lehenga_highlight_f.png",
+                                                    "darken": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/lehenga/mermaid_lehenga/floor_full_length/front/floor_full_length_mermaid_lehenga_shadow_f.png"
+                                                },
+                                                "back": {
+                                                    "base": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/lehenga/mermaid_lehenga/floor_full_length/back/floor_full_length_mermaid_lehenga_base_b.png",
+                                                    "highlight": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/lehenga/mermaid_lehenga/floor_full_length/back/floor_full_length_mermaid_lehenga_highlight_b.png",
+                                                    "darken": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/lehenga/mermaid_lehenga/floor_full_length/back/floor_full_length_mermaid_lehenga_shadow_b.png"
+                                                }
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "title": "Regular Lehenga Raw Silk",
+                                    "length": [
+                                        {
+                                            "title": "Floor Full Length",
+                                            "image": {
+                                                "front": {
+                                                    "base": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/lehenga/regular_lehenga_raw_silk/floor_full_length/front/floor_full_length_regular_lehenga_raw_silk_base_f.png",
+                                                    "highlight": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/lehenga/regular_lehenga_raw_silk/floor_full_length/front/floor_full_length_regular_lehenga_raw_silk_highlight_f.png",
+                                                    "darken": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/lehenga/regular_lehenga_raw_silk/floor_full_length/front/floor_full_length_regular_lehenga_raw_silk_shadow_f.png"
+                                                },
+                                                "back": {
+                                                    "base": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/lehenga/regular_lehenga_raw_silk/floor_full_length/back/floor_full_length_regular_lehenga_raw_silk_base_b.png",
+                                                    "highlight": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/lehenga/regular_lehenga_raw_silk/floor_full_length/back/floor_full_length_regular_lehenga_raw_silk_highlight_b.png",
+                                                    "darken": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/lehenga/regular_lehenga_raw_silk/floor_full_length/back/floor_full_length_regular_lehenga_raw_silk_shadow_b.png"
+                                                }
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "title": "Umbrella Kalis",
+                                    "length": [
+                                        {
+                                            "title": "Floor Full Length",
+                                            "image": {
+                                                "front": {
+                                                    "base": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/lehenga/umbrella_kalis/floor_full_length/front/floor_full_length_umbrella_kalis_base_f.png",
+                                                    "highlight": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/lehenga/umbrella_kalis/floor_full_length/front/floor_full_length_umbrella_kalis_highlight_f.png",
+                                                    "darken": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/lehenga/umbrella_kalis/floor_full_length/front/floor_full_length_umbrella_kalis_shadow_f.png"
+                                                },
+                                                "back": {
+                                                    "base": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/lehenga/umbrella_kalis/floor_full_length/back/floor_full_length_umbrella_kalis_base_b.png",
+                                                    "highlight": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/lehenga/umbrella_kalis/floor_full_length/back/floor_full_length_umbrella_kalis_highlight_b.png",
+                                                    "darken": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/lehenga/umbrella_kalis/floor_full_length/back/floor_full_length_umbrella_kalis_shadow_b.png"
+                                                }
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "sleeves": {},
+                "neck": {}
+            },
+            {
+                "title": "Blouse",
+                "zindex": 3,
+                "type": {
+                    "title": "Type",
+                    "options": [
+                        {
+                            "title": "blouse",
+                            "options": [
+                                {
+                                    "title": "Corset",
+                                    "length": [
+                                        {
+                                            "title": "Lower Stomach",
+                                            "image": {
+                                                "front": {
+                                                    "base": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/blouse/corset/lower_stomach/front/lower_stomach_corset_base_f.png",
+                                                    "highlight": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/blouse/corset/lower_stomach/front/lower_stomach_corset_highlight_f.png",
+                                                    "darken": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/blouse/corset/lower_stomach/front/lower_stomach_corset_shadow_f.png"
+                                                },
+                                                "back": {
+                                                    "base": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/blouse/corset/lower_stomach/back/lower_stomach_corset_base_b.png",
+                                                    "highlight": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/blouse/corset/lower_stomach/back/lower_stomach_corset_highlight_b.png",
+                                                    "darken": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/blouse/corset/lower_stomach/back/lower_stomach_corset_shadow_b.png"
+                                                }
+                                            }
+                                        },
+                                        {
+                                            "title": "Stomach",
+                                            "image": {
+                                                "front": {
+                                                    "base": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/blouse/corset/stomach/front/stomach_corset_base_f.png",
+                                                    "highlight": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/blouse/corset/stomach/front/stomach_corset_highlight_f.png",
+                                                    "darken": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/blouse/corset/stomach/front/stomach_corset_shadow_f.png"
+                                                },
+                                                "back": {
+                                                    "base": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/blouse/corset/stomach/back/stomach_corset_base_b.png",
+                                                    "highlight": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/blouse/corset/stomach/back/stomach_corset_highlight_b.png",
+                                                    "darken": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/blouse/corset/stomach/back/stomach_corset_shadow_b.png"
+                                                }
+                                            }
+                                        },
+                                        {
+                                            "title": "Waist",
+                                            "image": {
+                                                "front": {
+                                                    "base": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/blouse/corset/waist/front/waist_corset_base_f.png",
+                                                    "highlight": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/blouse/corset/waist/front/waist_corset_highlight_f.png",
+                                                    "darken": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/blouse/corset/waist/front/waist_corset_shadow_f.png"
+                                                },
+                                                "back": {
+                                                    "base": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/blouse/corset/waist/back/waist_corset_base_b.png",
+                                                    "highlight": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/blouse/corset/waist/back/waist_corset_highlight_b.png",
+                                                    "darken": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/blouse/corset/waist/back/waist_corset_shadow_b.png"
+                                                }
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "title": "Fitted",
+                                    "length": [
+                                        {
+                                            "title": "Waist",
+                                            "image": {
+                                                "front": {
+                                                    "base": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/blouse/fitted/waist/front/waist_fitted_base_f.png",
+                                                    "highlight": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/blouse/fitted/waist/front/waist_fitted_highlight_f.png",
+                                                    "darken": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/blouse/fitted/waist/front/waist_fitted_shadow_f.png"
+                                                },
+                                                "back": {
+                                                    "base": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/blouse/fitted/waist/back/waist_fitted_base_b.png",
+                                                    "highlight": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/blouse/fitted/waist/back/waist_fitted_highlight_b.png",
+                                                    "darken": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/blouse/fitted/waist/back/waist_fitted_shadow_b.png"
+                                                }
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "title": "Flowy",
+                                    "length": [
+                                        {
+                                            "title": "Lower Stomach",
+                                            "image": {
+                                                "front": {
+                                                    "base": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/blouse/flowy/lower_stomach/front/lower_stomach_flowy_base_f.png",
+                                                    "highlight": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/blouse/flowy/lower_stomach/front/lower_stomach_flowy_highlight_f.png",
+                                                    "darken": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/blouse/flowy/lower_stomach/front/lower_stomach_flowy_shadow_f.png"
+                                                },
+                                                "back": {
+                                                    "base": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/blouse/flowy/lower_stomach/back/lower_stomach_flowy_base_b.png",
+                                                    "highlight": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/blouse/flowy/lower_stomach/back/lower_stomach_flowy_highlight_b.png",
+                                                    "darken": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/blouse/flowy/lower_stomach/back/lower_stomach_flowy_shadow_b.png"
+                                                }
+                                            }
+                                        },
+                                        {
+                                            "title": "Waist",
+                                            "image": {
+                                                "front": {
+                                                    "base": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/blouse/flowy/waist/front/waist_flowy_base_f.png",
+                                                    "highlight": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/blouse/flowy/waist/front/waist_flowy_highlight_f.png",
+                                                    "darken": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/blouse/flowy/waist/front/waist_flowy_shadow_f.png"
+                                                },
+                                                "back": {
+                                                    "base": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/blouse/flowy/waist/back/waist_flowy_base_b.png",
+                                                    "highlight": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/blouse/flowy/waist/back/waist_flowy_highlight_b.png",
+                                                    "darken": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/blouse/flowy/waist/back/waist_flowy_shadow_b.png"
+                                                }
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "sleeves": {
+                    "title": "Sleeves",
+                    "options": [
+                        {
+                            "title": "blouse",
+                            "options": [
+                                {
+                                    "title": "3 4th Sleeves Below Elbow",
+                                    "length": [
+                                        {
+                                            "title": "3 4th Sleeves Below Elbow",
+                                            "image": {
+                                                "front": {
+                                                    "base": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/sleeves/blouse/3_4th_sleeves_below_elbow/front/3_4th_sleeves_below_elbow_base_f.png",
+                                                    "highlight": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/sleeves/blouse/3_4th_sleeves_below_elbow/front/3_4th_sleeves_below_elbow_highlight_f.png",
+                                                    "darken": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/sleeves/blouse/3_4th_sleeves_below_elbow/front/3_4th_sleeves_below_elbow_shadow_f.png"
+                                                },
+                                                "back": {
+                                                    "base": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/sleeves/blouse/3_4th_sleeves_below_elbow/back/3_4th_sleeves_below_elbow_base_b.png",
+                                                    "highlight": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/sleeves/blouse/3_4th_sleeves_below_elbow/back/3_4th_sleeves_below_elbow_highlight_b.png",
+                                                    "darken": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/sleeves/blouse/3_4th_sleeves_below_elbow/back/3_4th_sleeves_below_elbow_shadow_b.png"
+                                                }
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "title": "Cap Sleeves",
+                                    "length": [
+                                        {
+                                            "title": "Cap Sleeves",
+                                            "image": {
+                                                "front": {
+                                                    "base": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/sleeves/blouse/cap_sleeves/front/cap_sleeves_base_f.png",
+                                                    "highlight": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/sleeves/blouse/cap_sleeves/front/cap_sleeves_highlight_f.png",
+                                                    "darken": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/sleeves/blouse/cap_sleeves/front/cap_sleeves_shadow_f.png"
+                                                },
+                                                "back": {
+                                                    "base": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/sleeves/blouse/cap_sleeves/back/cap_sleeves_base_b.png",
+                                                    "highlight": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/sleeves/blouse/cap_sleeves/back/cap_sleeves_highlight_b.png",
+                                                    "darken": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/sleeves/blouse/cap_sleeves/back/cap_sleeves_shadow_b.png"
+                                                }
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "title": "Cold Shoulder Elbow",
+                                    "length": [
+                                        {
+                                            "title": "Cold Shoulder Elbow",
+                                            "image": {
+                                                "front": {
+                                                    "base": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/sleeves/blouse/cold_shoulder_elbow/front/cold_shoulder_elbow_base_f.png",
+                                                    "highlight": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/sleeves/blouse/cold_shoulder_elbow/front/cold_shoulder_elbow_highlight_f.png",
+                                                    "darken": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/sleeves/blouse/cold_shoulder_elbow/front/cold_shoulder_elbow_shadow_f.png"
+                                                },
+                                                "back": {
+                                                    "base": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/sleeves/blouse/cold_shoulder_elbow/back/cold_shoulder_elbow_base_b.png",
+                                                    "highlight": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/sleeves/blouse/cold_shoulder_elbow/back/cold_shoulder_elbow_highlight_b.png",
+                                                    "darken": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/sleeves/blouse/cold_shoulder_elbow/back/cold_shoulder_elbow_shadow_b.png"
+                                                }
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "title": "Full Sleeves",
+                                    "length": [
+                                        {
+                                            "title": "Full Sleeves",
+                                            "image": {
+                                                "front": {
+                                                    "base": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/sleeves/blouse/full_sleeves/front/full_sleeves_base_f.png",
+                                                    "highlight": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/sleeves/blouse/full_sleeves/front/full_sleeves_highlight_f.png",
+                                                    "darken": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/sleeves/blouse/full_sleeves/front/full_sleeves_shadow_f.png"
+                                                },
+                                                "back": {
+                                                    "base": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/sleeves/blouse/full_sleeves/back/full_sleeves_base_b.png",
+                                                    "highlight": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/sleeves/blouse/full_sleeves/back/full_sleeves_highlight_b.png",
+                                                    "darken": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/sleeves/blouse/full_sleeves/back/full_sleeves_shadow_b.png"
+                                                }
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "title": "Half Sleeves Above Elbow",
+                                    "length": [
+                                        {
+                                            "title": "Half Sleeves Above Elbow",
+                                            "image": {
+                                                "front": {
+                                                    "base": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/sleeves/blouse/half_sleeves_above_elbow/front/half_sleeves_above_elbow_base_f.png",
+                                                    "highlight": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/sleeves/blouse/half_sleeves_above_elbow/front/half_sleeves_above_elbow_highlight_f.png",
+                                                    "darken": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/sleeves/blouse/half_sleeves_above_elbow/front/half_sleeves_above_elbow_shadow_f.png"
+                                                },
+                                                "back": {
+                                                    "base": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/sleeves/blouse/half_sleeves_above_elbow/back/half_sleeves_above_elbow_base_b.png",
+                                                    "highlight": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/sleeves/blouse/half_sleeves_above_elbow/back/half_sleeves_above_elbow_highlight_b.png",
+                                                    "darken": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/sleeves/blouse/half_sleeves_above_elbow/back/half_sleeves_above_elbow_shadow_b.png"
+                                                }
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "title": "Leg Of Mutton Sleeves",
+                                    "length": [
+                                        {
+                                            "title": "Leg Of Mutton Sleeves",
+                                            "image": {
+                                                "front": {
+                                                    "base": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/sleeves/blouse/leg_of_mutton_sleeves/front/leg_of_mutton_sleeves_base_f.png",
+                                                    "highlight": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/sleeves/blouse/leg_of_mutton_sleeves/front/leg_of_mutton_sleeves_highlight_f.png",
+                                                    "darken": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/sleeves/blouse/leg_of_mutton_sleeves/front/leg_of_mutton_sleeves_shadow_f.png"
+                                                },
+                                                "back": {
+                                                    "base": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/sleeves/blouse/leg_of_mutton_sleeves/back/leg_of_mutton_sleeves_base_b.png",
+                                                    "highlight": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/sleeves/blouse/leg_of_mutton_sleeves/back/leg_of_mutton_sleeves_highlight_b.png",
+                                                    "darken": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/sleeves/blouse/leg_of_mutton_sleeves/back/leg_of_mutton_sleeves_shadow_b.png"
+                                                }
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "title": "Strappy",
+                                    "length": [
+                                        {
+                                            "title": "Strappy",
+                                            "image": {
+                                                "front": {
+                                                    "base": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/sleeves/blouse/strappy/front/strappy_base_f.png",
+                                                    "highlight": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/sleeves/blouse/strappy/front/strappy_highlight_f.png",
+                                                    "darken": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/sleeves/blouse/strappy/front/strappy_shadow_f.png"
+                                                },
+                                                "back": {
+                                                    "base": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/sleeves/blouse/strappy/back/strappy_base_b.png",
+                                                    "highlight": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/sleeves/blouse/strappy/back/strappy_highlight_b.png",
+                                                    "darken": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/sleeves/blouse/strappy/back/strappy_shadow_b.png"
+                                                }
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "neck": {
+                    "title": "Neck",
+                    "options": [
+                        {
+                            "title": "blouse",
+                            "options": [
+                                {
+                                    "title": "Boat Neck",
+                                    "length": [
+                                        {
+                                            "title": "Boat Neck",
+                                            "image": {
+                                                "front": {
+                                                    "base": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/necklines/blouse/boat_neck/front/boat_neck_base_f.png",
+                                                    "highlight": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/necklines/blouse/boat_neck/front/boat_neck_highlight_f.png",
+                                                    "darken": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/necklines/blouse/boat_neck/front/boat_neck_shadow_f.png"
+                                                },
+                                                "back": {
+                                                    "base": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/necklines/blouse/boat_neck/back/boat_neck_base_b.png",
+                                                    "highlight": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/necklines/blouse/boat_neck/back/boat_neck_highlight_b.png",
+                                                    "darken": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/necklines/blouse/boat_neck/back/boat_neck_shadow_b.png"
+                                                }
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "title": "Collared Neck",
+                                    "length": [
+                                        {
+                                            "title": "Collared Neck",
+                                            "image": {
+                                                "front": {
+                                                    "base": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/necklines/blouse/collared_neck/front/collared_neck_base_f.png",
+                                                    "highlight": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/necklines/blouse/collared_neck/front/collared_neck_highlight_f.png",
+                                                    "darken": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/necklines/blouse/collared_neck/front/collared_neck_shadow_f.png"
+                                                },
+                                                "back": {
+                                                    "base": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/necklines/blouse/collared_neck/back/collared_neck_base_b.png",
+                                                    "highlight": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/necklines/blouse/collared_neck/back/collared_neck_highlight_b.png",
+                                                    "darken": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/necklines/blouse/collared_neck/back/collared_neck_shadow_b.png"
+                                                }
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "title": "Halter Neck",
+                                    "length": [
+                                        {
+                                            "title": "Halter Neck",
+                                            "image": {
+                                                "front": {
+                                                    "base": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/necklines/blouse/halter_neck/front/halter_neck_base_f.png",
+                                                    "highlight": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/necklines/blouse/halter_neck/front/halter_neck_highlight_f.png",
+                                                    "darken": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/necklines/blouse/halter_neck/front/halter_neck_shadow_f.png"
+                                                },
+                                                "back": {
+                                                    "base": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/necklines/blouse/halter_neck/back/halter_neck_base_b.png",
+                                                    "highlight": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/necklines/blouse/halter_neck/back/halter_neck_highlight_b.png",
+                                                    "darken": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/necklines/blouse/halter_neck/back/halter_neck_shadow_b.png"
+                                                }
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "title": "High Neck",
+                                    "length": [
+                                        {
+                                            "title": "High Neck",
+                                            "image": {
+                                                "front": {
+                                                    "base": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/necklines/blouse/high_neck/front/high_neck_base_f.png",
+                                                    "highlight": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/necklines/blouse/high_neck/front/high_neck_highlight_f.png",
+                                                    "darken": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/necklines/blouse/high_neck/front/high_neck_shadow_f.png"
+                                                },
+                                                "back": {
+                                                    "base": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/necklines/blouse/high_neck/back/high_neck_base_b.png",
+                                                    "highlight": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/necklines/blouse/high_neck/back/high_neck_highlight_b.png",
+                                                    "darken": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/necklines/blouse/high_neck/back/high_neck_shadow_b.png"
+                                                }
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "title": "Off Shoulder",
+                                    "length": [
+                                        {
+                                            "title": "Off Shoulder",
+                                            "image": {
+                                                "front": {
+                                                    "base": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/necklines/blouse/off_shoulder/front/off_shoulder_base_f.png",
+                                                    "highlight": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/necklines/blouse/off_shoulder/front/off_shoulder_highlight_f.png",
+                                                    "darken": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/necklines/blouse/off_shoulder/front/off_shoulder_shadow_f.png"
+                                                },
+                                                "back": {
+                                                    "base": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/necklines/blouse/off_shoulder/back/off_shoulder_base_b.png",
+                                                    "highlight": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/necklines/blouse/off_shoulder/back/off_shoulder_highlight_b.png",
+                                                    "darken": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/necklines/blouse/off_shoulder/back/off_shoulder_shadow_b.png"
+                                                }
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "title": "One Shoulder",
+                                    "length": [
+                                        {
+                                            "title": "One Shoulder",
+                                            "image": {
+                                                "front": {
+                                                    "base": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/necklines/blouse/one_shoulder/front/one_shoulder_base_f.png",
+                                                    "highlight": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/necklines/blouse/one_shoulder/front/one_shoulder_highlight_f.png",
+                                                    "darken": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/necklines/blouse/one_shoulder/front/one_shoulder_shadow_f.png"
+                                                },
+                                                "back": {
+                                                    "base": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/necklines/blouse/one_shoulder/back/one_shoulder_base_b.png",
+                                                    "highlight": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/necklines/blouse/one_shoulder/back/one_shoulder_highlight_b.png",
+                                                    "darken": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/necklines/blouse/one_shoulder/back/one_shoulder_shadow_b.png"
+                                                }
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "title": "Scoop Medium",
+                                    "length": [
+                                        {
+                                            "title": "Scoop Medium",
+                                            "image": {
+                                                "front": {
+                                                    "base": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/necklines/blouse/scoop_medium/front/scoop_medium_base_f.png",
+                                                    "highlight": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/necklines/blouse/scoop_medium/front/scoop_medium_highlight_f.png",
+                                                    "darken": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/necklines/blouse/scoop_medium/front/scoop_medium_shadow_f.png"
+                                                },
+                                                "back": {
+                                                    "base": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/necklines/blouse/scoop_medium/back/scoop_medium_base_b.png",
+                                                    "highlight": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/necklines/blouse/scoop_medium/back/scoop_medium_highlight_b.png",
+                                                    "darken": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/necklines/blouse/scoop_medium/back/scoop_medium_shadow_b.png"
+                                                }
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "title": "Square Medium",
+                                    "length": [
+                                        {
+                                            "title": "Square Medium",
+                                            "image": {
+                                                "front": {
+                                                    "base": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/necklines/blouse/square_medium/front/square_medium_base_f.png",
+                                                    "highlight": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/necklines/blouse/square_medium/front/square_medium_highlight_f.png",
+                                                    "darken": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/necklines/blouse/square_medium/front/square_medium_shadow_f.png"
+                                                },
+                                                "back": {
+                                                    "base": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/necklines/blouse/square_medium/back/square_medium_base_b.png",
+                                                    "highlight": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/necklines/blouse/square_medium/back/square_medium_highlight_b.png",
+                                                    "darken": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/necklines/blouse/square_medium/back/square_medium_shadow_b.png"
+                                                }
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "title": "V Neck Medium",
+                                    "length": [
+                                        {
+                                            "title": "V Neck Medium",
+                                            "image": {
+                                                "front": {
+                                                    "base": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/necklines/blouse/v_neck_medium/front/v_neck_medium_base_f.png",
+                                                    "highlight": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/necklines/blouse/v_neck_medium/front/v_neck_medium_highlight_f.png",
+                                                    "darken": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/necklines/blouse/v_neck_medium/front/v_neck_medium_shadow_f.png"
+                                                },
+                                                "back": {
+                                                    "base": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/necklines/blouse/v_neck_medium/back/v_neck_medium_base_b.png",
+                                                    "highlight": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/necklines/blouse/v_neck_medium/back/v_neck_medium_highlight_b.png",
+                                                    "darken": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/necklines/blouse/v_neck_medium/back/v_neck_medium_shadow_b.png"
+                                                }
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "Dupatta",
+                "zindex": 10,
+                "type": {
+                    "title": "Type",
+                    "options": [
+                        {
+                            "title": "dupatta",
+                            "options": [
+                                {
+                                    "title": "Draped Over Arm",
+                                    "length": [
+                                        {
+                                            "title": "Draped Over Arm",
+                                            "image": {
+                                                "front": {
+                                                    "base": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/dupatta/draped_over_arm/draped_over_arm/front/draped_over_arm_draped_over_arm_base_f.png",
+                                                    "highlight": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/dupatta/draped_over_arm/draped_over_arm/front/draped_over_arm_draped_over_arm_highlight_f.png",
+                                                    "darken": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/dupatta/draped_over_arm/draped_over_arm/front/draped_over_arm_draped_over_arm_shadow_f.png"
+                                                },
+                                                "back": {
+                                                    "base": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/dupatta/draped_over_arm/draped_over_arm/back/draped_over_arm_draped_over_arm_base_b.png",
+                                                    "highlight": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/dupatta/draped_over_arm/draped_over_arm/back/draped_over_arm_draped_over_arm_highlight_b.png",
+                                                    "darken": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/dupatta/draped_over_arm/draped_over_arm/back/draped_over_arm_draped_over_arm_shadow_b.png"
+                                                }
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "title": "Draped Over Shoulder",
+                                    "length": [
+                                        {
+                                            "title": "Draped Over Shoulder",
+                                            "image": {
+                                                "front": {
+                                                    "base": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/dupatta/draped_over_shoulder/draped_over_shoulder/front/draped_over_shoulder_draped_over_shoulder_base_f.png",
+                                                    "highlight": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/dupatta/draped_over_shoulder/draped_over_shoulder/front/draped_over_shoulder_draped_over_shoulder_highlight_f.png",
+                                                    "darken": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/dupatta/draped_over_shoulder/draped_over_shoulder/front/draped_over_shoulder_draped_over_shoulder_shadow_f.png"
+                                                },
+                                                "back": {
+                                                    "base": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/dupatta/draped_over_shoulder/draped_over_shoulder/back/draped_over_shoulder_draped_over_shoulder_base_b.png",
+                                                    "highlight": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/dupatta/draped_over_shoulder/draped_over_shoulder/back/draped_over_shoulder_draped_over_shoulder_highlight_b.png",
+                                                    "darken": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/dupatta/draped_over_shoulder/draped_over_shoulder/back/draped_over_shoulder_draped_over_shoulder_shadow_b.png"
+                                                }
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "title": "Draped",
+                                    "length": [
+                                        {
+                                            "title": "Draped",
+                                            "image": {
+                                                "front": {
+                                                    "base": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/dupatta/draped/draped/front/draped_draped_base_f.png",
+                                                    "highlight": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/dupatta/draped/draped/front/draped_draped_highlight_f.png",
+                                                    "darken": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/dupatta/draped/draped/front/draped_draped_shadow_f.png"
+                                                },
+                                                "back": {
+                                                    "base": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/dupatta/draped/draped/back/draped_draped_base_b.png",
+                                                    "highlight": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/dupatta/draped/draped/back/draped_draped_highlight_b.png",
+                                                    "darken": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/dupatta/draped/draped/back/draped_draped_shadow_b.png"
+                                                }
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "title": "Head Dupatta Georgette",
+                                    "length": [
+                                        {
+                                            "title": "Head Dupatta Georgette",
+                                            "image": {
+                                                "front": {
+                                                    "base": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/dupatta/head_dupatta_georgette/head_dupatta_georgette/front/head_dupatta_georgette_head_dupatta_georgette_base_f.png",
+                                                    "highlight": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/dupatta/head_dupatta_georgette/head_dupatta_georgette/front/head_dupatta_georgette_head_dupatta_georgette_highlight_f.png",
+                                                    "darken": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/dupatta/head_dupatta_georgette/head_dupatta_georgette/front/head_dupatta_georgette_head_dupatta_georgette_shadow_f.png"
+                                                },
+                                                "back": {
+                                                    "base": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/dupatta/head_dupatta_georgette/head_dupatta_georgette/back/head_dupatta_georgette_head_dupatta_georgette_base_b.png",
+                                                    "highlight": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/dupatta/head_dupatta_georgette/head_dupatta_georgette/back/head_dupatta_georgette_head_dupatta_georgette_highlight_b.png",
+                                                    "darken": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/dupatta/head_dupatta_georgette/head_dupatta_georgette/back/head_dupatta_georgette_head_dupatta_georgette_shadow_b.png"
+                                                }
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "title": "Head Dupatta Net",
+                                    "length": [
+                                        {
+                                            "title": "Head Dupatta Net",
+                                            "image": {
+                                                "front": {
+                                                    "base": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/dupatta/head_dupatta_net/head_dupatta_net/front/head_dupatta_net_head_dupatta_net_base_f.png",
+                                                    "highlight": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/dupatta/head_dupatta_net/head_dupatta_net/front/head_dupatta_net_head_dupatta_net_highlight_f.png",
+                                                    "darken": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/dupatta/head_dupatta_net/head_dupatta_net/front/head_dupatta_net_head_dupatta_net_shadow_f.png"
+                                                },
+                                                "back": {
+                                                    "base": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/dupatta/head_dupatta_net/head_dupatta_net/back/head_dupatta_net_head_dupatta_net_base_b.png",
+                                                    "highlight": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/dupatta/head_dupatta_net/head_dupatta_net/back/head_dupatta_net_head_dupatta_net_highlight_b.png",
+                                                    "darken": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/dupatta/head_dupatta_net/head_dupatta_net/back/head_dupatta_net_head_dupatta_net_shadow_b.png"
+                                                }
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "title": "Head Dupatta",
+                                    "length": [
+                                        {
+                                            "title": "Head Dupatta",
+                                            "image": {
+                                                "front": {
+                                                    "base": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/dupatta/head_dupatta/head_dupatta/front/head_dupatta_head_dupatta_base_f.png",
+                                                    "highlight": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/dupatta/head_dupatta/head_dupatta/front/head_dupatta_head_dupatta_highlight_f.png",
+                                                    "darken": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/dupatta/head_dupatta/head_dupatta/front/head_dupatta_head_dupatta_shadow_f.png"
+                                                },
+                                                "back": {
+                                                    "base": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/dupatta/head_dupatta/head_dupatta/back/head_dupatta_head_dupatta_base_b.png",
+                                                    "highlight": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/dupatta/head_dupatta/head_dupatta/back/head_dupatta_head_dupatta_highlight_b.png",
+                                                    "darken": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/dupatta/head_dupatta/head_dupatta/back/head_dupatta_head_dupatta_shadow_b.png"
+                                                }
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "title": "Ruffled",
+                                    "length": [
+                                        {
+                                            "title": "Ruffled",
+                                            "image": {
+                                                "front": {
+                                                    "base": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/dupatta/ruffled/ruffled/front/ruffled_ruffled_base_f.png",
+                                                    "highlight": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/dupatta/ruffled/ruffled/front/ruffled_ruffled_highlight_f.png",
+                                                    "darken": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/dupatta/ruffled/ruffled/front/ruffled_ruffled_shadow_f.png"
+                                                },
+                                                "back": {
+                                                    "base": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/dupatta/ruffled/ruffled/back/ruffled_ruffled_base_b.png",
+                                                    "highlight": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/dupatta/ruffled/ruffled/back/ruffled_ruffled_highlight_b.png",
+                                                    "darken": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/dupatta/ruffled/ruffled/back/ruffled_ruffled_shadow_b.png"
+                                                }
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "title": "Sari Drape",
+                                    "length": [
+                                        {
+                                            "title": "Sari Drape",
+                                            "image": {
+                                                "front": {
+                                                    "base": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/dupatta/sari_drape/sari_drape/front/sari_drape_sari_drape_base_f.png",
+                                                    "highlight": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/dupatta/sari_drape/sari_drape/front/sari_drape_sari_drape_highlight_f.png",
+                                                    "darken": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/dupatta/sari_drape/sari_drape/front/sari_drape_sari_drape_shadow_f.png"
+                                                },
+                                                "back": {
+                                                    "base": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/dupatta/sari_drape/sari_drape/back/sari_drape_sari_drape_base_b.png",
+                                                    "highlight": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/dupatta/sari_drape/sari_drape/back/sari_drape_sari_drape_highlight_b.png",
+                                                    "darken": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/dupatta/sari_drape/sari_drape/back/sari_drape_sari_drape_shadow_b.png"
+                                                }
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "title": "Straight Edges",
+                                    "length": [
+                                        {
+                                            "title": "Straight Edges",
+                                            "image": {
+                                                "front": {
+                                                    "base": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/dupatta/straight_edges/straight_edges/front/straight_edges_straight_edges_base_f.png",
+                                                    "highlight": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/dupatta/straight_edges/straight_edges/front/straight_edges_straight_edges_highlight_f.png",
+                                                    "darken": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/dupatta/straight_edges/straight_edges/front/straight_edges_straight_edges_shadow_f.png"
+                                                },
+                                                "back": {
+                                                    "base": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/dupatta/straight_edges/straight_edges/back/straight_edges_straight_edges_base_b.png",
+                                                    "highlight": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/dupatta/straight_edges/straight_edges/back/straight_edges_straight_edges_highlight_b.png",
+                                                    "darken": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/dupatta/straight_edges/straight_edges/back/straight_edges_straight_edges_shadow_b.png"
+                                                }
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "sleeves": {},
+                "neck": {}
+            }
+        ],
+        "sari_set": [
+            {
+                "title": "Blouse",
+                "zindex": 3,
+                "type": {
+                    "title": "Type",
+                    "options": [
+                        {
+                            "title": "blouse",
+                            "options": [
+                                {
+                                    "title": "Corset",
+                                    "length": [
+                                        {
+                                            "title": "Lower Stomach",
+                                            "image": {
+                                                "front": {
+                                                    "base": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/blouse/corset/lower_stomach/front/lower_stomach_corset_base_f.png",
+                                                    "highlight": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/blouse/corset/lower_stomach/front/lower_stomach_corset_highlight_f.png",
+                                                    "darken": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/blouse/corset/lower_stomach/front/lower_stomach_corset_shadow_f.png"
+                                                },
+                                                "back": {
+                                                    "base": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/blouse/corset/lower_stomach/back/lower_stomach_corset_base_b.png",
+                                                    "highlight": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/blouse/corset/lower_stomach/back/lower_stomach_corset_highlight_b.png",
+                                                    "darken": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/blouse/corset/lower_stomach/back/lower_stomach_corset_shadow_b.png"
+                                                }
+                                            }
+                                        },
+                                        {
+                                            "title": "Stomach",
+                                            "image": {
+                                                "front": {
+                                                    "base": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/blouse/corset/stomach/front/stomach_corset_base_f.png",
+                                                    "highlight": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/blouse/corset/stomach/front/stomach_corset_highlight_f.png",
+                                                    "darken": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/blouse/corset/stomach/front/stomach_corset_shadow_f.png"
+                                                },
+                                                "back": {
+                                                    "base": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/blouse/corset/stomach/back/stomach_corset_base_b.png",
+                                                    "highlight": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/blouse/corset/stomach/back/stomach_corset_highlight_b.png",
+                                                    "darken": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/blouse/corset/stomach/back/stomach_corset_shadow_b.png"
+                                                }
+                                            }
+                                        },
+                                        {
+                                            "title": "Waist",
+                                            "image": {
+                                                "front": {
+                                                    "base": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/blouse/corset/waist/front/waist_corset_base_f.png",
+                                                    "highlight": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/blouse/corset/waist/front/waist_corset_highlight_f.png",
+                                                    "darken": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/blouse/corset/waist/front/waist_corset_shadow_f.png"
+                                                },
+                                                "back": {
+                                                    "base": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/blouse/corset/waist/back/waist_corset_base_b.png",
+                                                    "highlight": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/blouse/corset/waist/back/waist_corset_highlight_b.png",
+                                                    "darken": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/blouse/corset/waist/back/waist_corset_shadow_b.png"
+                                                }
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "title": "Fitted",
+                                    "length": [
+                                        {
+                                            "title": "Waist",
+                                            "image": {
+                                                "front": {
+                                                    "base": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/blouse/fitted/waist/front/waist_fitted_base_f.png",
+                                                    "highlight": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/blouse/fitted/waist/front/waist_fitted_highlight_f.png",
+                                                    "darken": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/blouse/fitted/waist/front/waist_fitted_shadow_f.png"
+                                                },
+                                                "back": {
+                                                    "base": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/blouse/fitted/waist/back/waist_fitted_base_b.png",
+                                                    "highlight": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/blouse/fitted/waist/back/waist_fitted_highlight_b.png",
+                                                    "darken": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/blouse/fitted/waist/back/waist_fitted_shadow_b.png"
+                                                }
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "title": "Flowy",
+                                    "length": [
+                                        {
+                                            "title": "Lower Stomach",
+                                            "image": {
+                                                "front": {
+                                                    "base": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/blouse/flowy/lower_stomach/front/lower_stomach_flowy_base_f.png",
+                                                    "highlight": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/blouse/flowy/lower_stomach/front/lower_stomach_flowy_highlight_f.png",
+                                                    "darken": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/blouse/flowy/lower_stomach/front/lower_stomach_flowy_shadow_f.png"
+                                                },
+                                                "back": {
+                                                    "base": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/blouse/flowy/lower_stomach/back/lower_stomach_flowy_base_b.png",
+                                                    "highlight": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/blouse/flowy/lower_stomach/back/lower_stomach_flowy_highlight_b.png",
+                                                    "darken": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/blouse/flowy/lower_stomach/back/lower_stomach_flowy_shadow_b.png"
+                                                }
+                                            }
+                                        },
+                                        {
+                                            "title": "Waist",
+                                            "image": {
+                                                "front": {
+                                                    "base": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/blouse/flowy/waist/front/waist_flowy_base_f.png",
+                                                    "highlight": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/blouse/flowy/waist/front/waist_flowy_highlight_f.png",
+                                                    "darken": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/blouse/flowy/waist/front/waist_flowy_shadow_f.png"
+                                                },
+                                                "back": {
+                                                    "base": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/blouse/flowy/waist/back/waist_flowy_base_b.png",
+                                                    "highlight": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/blouse/flowy/waist/back/waist_flowy_highlight_b.png",
+                                                    "darken": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/blouse/flowy/waist/back/waist_flowy_shadow_b.png"
+                                                }
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "sleeves": {
+                    "title": "Sleeves",
+                    "options": [
+                        {
+                            "title": "blouse",
+                            "options": [
+                                {
+                                    "title": "3 4th Sleeves Below Elbow",
+                                    "length": [
+                                        {
+                                            "title": "3 4th Sleeves Below Elbow",
+                                            "image": {
+                                                "front": {
+                                                    "base": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/sleeves/blouse/3_4th_sleeves_below_elbow/front/3_4th_sleeves_below_elbow_base_f.png",
+                                                    "highlight": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/sleeves/blouse/3_4th_sleeves_below_elbow/front/3_4th_sleeves_below_elbow_highlight_f.png",
+                                                    "darken": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/sleeves/blouse/3_4th_sleeves_below_elbow/front/3_4th_sleeves_below_elbow_shadow_f.png"
+                                                },
+                                                "back": {
+                                                    "base": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/sleeves/blouse/3_4th_sleeves_below_elbow/back/3_4th_sleeves_below_elbow_base_b.png",
+                                                    "highlight": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/sleeves/blouse/3_4th_sleeves_below_elbow/back/3_4th_sleeves_below_elbow_highlight_b.png",
+                                                    "darken": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/sleeves/blouse/3_4th_sleeves_below_elbow/back/3_4th_sleeves_below_elbow_shadow_b.png"
+                                                }
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "title": "Cap Sleeves",
+                                    "length": [
+                                        {
+                                            "title": "Cap Sleeves",
+                                            "image": {
+                                                "front": {
+                                                    "base": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/sleeves/blouse/cap_sleeves/front/cap_sleeves_base_f.png",
+                                                    "highlight": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/sleeves/blouse/cap_sleeves/front/cap_sleeves_highlight_f.png",
+                                                    "darken": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/sleeves/blouse/cap_sleeves/front/cap_sleeves_shadow_f.png"
+                                                },
+                                                "back": {
+                                                    "base": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/sleeves/blouse/cap_sleeves/back/cap_sleeves_base_b.png",
+                                                    "highlight": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/sleeves/blouse/cap_sleeves/back/cap_sleeves_highlight_b.png",
+                                                    "darken": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/sleeves/blouse/cap_sleeves/back/cap_sleeves_shadow_b.png"
+                                                }
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "title": "Cold Shoulder Elbow",
+                                    "length": [
+                                        {
+                                            "title": "Cold Shoulder Elbow",
+                                            "image": {
+                                                "front": {
+                                                    "base": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/sleeves/blouse/cold_shoulder_elbow/front/cold_shoulder_elbow_base_f.png",
+                                                    "highlight": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/sleeves/blouse/cold_shoulder_elbow/front/cold_shoulder_elbow_highlight_f.png",
+                                                    "darken": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/sleeves/blouse/cold_shoulder_elbow/front/cold_shoulder_elbow_shadow_f.png"
+                                                },
+                                                "back": {
+                                                    "base": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/sleeves/blouse/cold_shoulder_elbow/back/cold_shoulder_elbow_base_b.png",
+                                                    "highlight": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/sleeves/blouse/cold_shoulder_elbow/back/cold_shoulder_elbow_highlight_b.png",
+                                                    "darken": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/sleeves/blouse/cold_shoulder_elbow/back/cold_shoulder_elbow_shadow_b.png"
+                                                }
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "title": "Full Sleeves",
+                                    "length": [
+                                        {
+                                            "title": "Full Sleeves",
+                                            "image": {
+                                                "front": {
+                                                    "base": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/sleeves/blouse/full_sleeves/front/full_sleeves_base_f.png",
+                                                    "highlight": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/sleeves/blouse/full_sleeves/front/full_sleeves_highlight_f.png",
+                                                    "darken": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/sleeves/blouse/full_sleeves/front/full_sleeves_shadow_f.png"
+                                                },
+                                                "back": {
+                                                    "base": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/sleeves/blouse/full_sleeves/back/full_sleeves_base_b.png",
+                                                    "highlight": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/sleeves/blouse/full_sleeves/back/full_sleeves_highlight_b.png",
+                                                    "darken": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/sleeves/blouse/full_sleeves/back/full_sleeves_shadow_b.png"
+                                                }
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "title": "Half Sleeves Above Elbow",
+                                    "length": [
+                                        {
+                                            "title": "Half Sleeves Above Elbow",
+                                            "image": {
+                                                "front": {
+                                                    "base": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/sleeves/blouse/half_sleeves_above_elbow/front/half_sleeves_above_elbow_base_f.png",
+                                                    "highlight": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/sleeves/blouse/half_sleeves_above_elbow/front/half_sleeves_above_elbow_highlight_f.png",
+                                                    "darken": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/sleeves/blouse/half_sleeves_above_elbow/front/half_sleeves_above_elbow_shadow_f.png"
+                                                },
+                                                "back": {
+                                                    "base": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/sleeves/blouse/half_sleeves_above_elbow/back/half_sleeves_above_elbow_base_b.png",
+                                                    "highlight": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/sleeves/blouse/half_sleeves_above_elbow/back/half_sleeves_above_elbow_highlight_b.png",
+                                                    "darken": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/sleeves/blouse/half_sleeves_above_elbow/back/half_sleeves_above_elbow_shadow_b.png"
+                                                }
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "title": "Leg Of Mutton Sleeves",
+                                    "length": [
+                                        {
+                                            "title": "Leg Of Mutton Sleeves",
+                                            "image": {
+                                                "front": {
+                                                    "base": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/sleeves/blouse/leg_of_mutton_sleeves/front/leg_of_mutton_sleeves_base_f.png",
+                                                    "highlight": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/sleeves/blouse/leg_of_mutton_sleeves/front/leg_of_mutton_sleeves_highlight_f.png",
+                                                    "darken": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/sleeves/blouse/leg_of_mutton_sleeves/front/leg_of_mutton_sleeves_shadow_f.png"
+                                                },
+                                                "back": {
+                                                    "base": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/sleeves/blouse/leg_of_mutton_sleeves/back/leg_of_mutton_sleeves_base_b.png",
+                                                    "highlight": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/sleeves/blouse/leg_of_mutton_sleeves/back/leg_of_mutton_sleeves_highlight_b.png",
+                                                    "darken": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/sleeves/blouse/leg_of_mutton_sleeves/back/leg_of_mutton_sleeves_shadow_b.png"
+                                                }
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "title": "Strappy",
+                                    "length": [
+                                        {
+                                            "title": "Strappy",
+                                            "image": {
+                                                "front": {
+                                                    "base": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/sleeves/blouse/strappy/front/strappy_base_f.png",
+                                                    "highlight": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/sleeves/blouse/strappy/front/strappy_highlight_f.png",
+                                                    "darken": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/sleeves/blouse/strappy/front/strappy_shadow_f.png"
+                                                },
+                                                "back": {
+                                                    "base": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/sleeves/blouse/strappy/back/strappy_base_b.png",
+                                                    "highlight": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/sleeves/blouse/strappy/back/strappy_highlight_b.png",
+                                                    "darken": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/sleeves/blouse/strappy/back/strappy_shadow_b.png"
+                                                }
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "neck": {
+                    "title": "Neck",
+                    "options": [
+                        {
+                            "title": "blouse",
+                            "options": [
+                                {
+                                    "title": "Boat Neck",
+                                    "length": [
+                                        {
+                                            "title": "Boat Neck",
+                                            "image": {
+                                                "front": {
+                                                    "base": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/necklines/blouse/boat_neck/front/boat_neck_base_f.png",
+                                                    "highlight": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/necklines/blouse/boat_neck/front/boat_neck_highlight_f.png",
+                                                    "darken": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/necklines/blouse/boat_neck/front/boat_neck_shadow_f.png"
+                                                },
+                                                "back": {
+                                                    "base": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/necklines/blouse/boat_neck/back/boat_neck_base_b.png",
+                                                    "highlight": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/necklines/blouse/boat_neck/back/boat_neck_highlight_b.png",
+                                                    "darken": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/necklines/blouse/boat_neck/back/boat_neck_shadow_b.png"
+                                                }
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "title": "Collared Neck",
+                                    "length": [
+                                        {
+                                            "title": "Collared Neck",
+                                            "image": {
+                                                "front": {
+                                                    "base": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/necklines/blouse/collared_neck/front/collared_neck_base_f.png",
+                                                    "highlight": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/necklines/blouse/collared_neck/front/collared_neck_highlight_f.png",
+                                                    "darken": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/necklines/blouse/collared_neck/front/collared_neck_shadow_f.png"
+                                                },
+                                                "back": {
+                                                    "base": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/necklines/blouse/collared_neck/back/collared_neck_base_b.png",
+                                                    "highlight": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/necklines/blouse/collared_neck/back/collared_neck_highlight_b.png",
+                                                    "darken": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/necklines/blouse/collared_neck/back/collared_neck_shadow_b.png"
+                                                }
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "title": "Halter Neck",
+                                    "length": [
+                                        {
+                                            "title": "Halter Neck",
+                                            "image": {
+                                                "front": {
+                                                    "base": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/necklines/blouse/halter_neck/front/halter_neck_base_f.png",
+                                                    "highlight": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/necklines/blouse/halter_neck/front/halter_neck_highlight_f.png",
+                                                    "darken": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/necklines/blouse/halter_neck/front/halter_neck_shadow_f.png"
+                                                },
+                                                "back": {
+                                                    "base": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/necklines/blouse/halter_neck/back/halter_neck_base_b.png",
+                                                    "highlight": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/necklines/blouse/halter_neck/back/halter_neck_highlight_b.png",
+                                                    "darken": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/necklines/blouse/halter_neck/back/halter_neck_shadow_b.png"
+                                                }
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "title": "High Neck",
+                                    "length": [
+                                        {
+                                            "title": "High Neck",
+                                            "image": {
+                                                "front": {
+                                                    "base": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/necklines/blouse/high_neck/front/high_neck_base_f.png",
+                                                    "highlight": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/necklines/blouse/high_neck/front/high_neck_highlight_f.png",
+                                                    "darken": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/necklines/blouse/high_neck/front/high_neck_shadow_f.png"
+                                                },
+                                                "back": {
+                                                    "base": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/necklines/blouse/high_neck/back/high_neck_base_b.png",
+                                                    "highlight": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/necklines/blouse/high_neck/back/high_neck_highlight_b.png",
+                                                    "darken": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/necklines/blouse/high_neck/back/high_neck_shadow_b.png"
+                                                }
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "title": "Off Shoulder",
+                                    "length": [
+                                        {
+                                            "title": "Off Shoulder",
+                                            "image": {
+                                                "front": {
+                                                    "base": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/necklines/blouse/off_shoulder/front/off_shoulder_base_f.png",
+                                                    "highlight": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/necklines/blouse/off_shoulder/front/off_shoulder_highlight_f.png",
+                                                    "darken": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/necklines/blouse/off_shoulder/front/off_shoulder_shadow_f.png"
+                                                },
+                                                "back": {
+                                                    "base": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/necklines/blouse/off_shoulder/back/off_shoulder_base_b.png",
+                                                    "highlight": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/necklines/blouse/off_shoulder/back/off_shoulder_highlight_b.png",
+                                                    "darken": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/necklines/blouse/off_shoulder/back/off_shoulder_shadow_b.png"
+                                                }
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "title": "One Shoulder",
+                                    "length": [
+                                        {
+                                            "title": "One Shoulder",
+                                            "image": {
+                                                "front": {
+                                                    "base": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/necklines/blouse/one_shoulder/front/one_shoulder_base_f.png",
+                                                    "highlight": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/necklines/blouse/one_shoulder/front/one_shoulder_highlight_f.png",
+                                                    "darken": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/necklines/blouse/one_shoulder/front/one_shoulder_shadow_f.png"
+                                                },
+                                                "back": {
+                                                    "base": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/necklines/blouse/one_shoulder/back/one_shoulder_base_b.png",
+                                                    "highlight": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/necklines/blouse/one_shoulder/back/one_shoulder_highlight_b.png",
+                                                    "darken": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/necklines/blouse/one_shoulder/back/one_shoulder_shadow_b.png"
+                                                }
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "title": "Scoop Medium",
+                                    "length": [
+                                        {
+                                            "title": "Scoop Medium",
+                                            "image": {
+                                                "front": {
+                                                    "base": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/necklines/blouse/scoop_medium/front/scoop_medium_base_f.png",
+                                                    "highlight": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/necklines/blouse/scoop_medium/front/scoop_medium_highlight_f.png",
+                                                    "darken": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/necklines/blouse/scoop_medium/front/scoop_medium_shadow_f.png"
+                                                },
+                                                "back": {
+                                                    "base": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/necklines/blouse/scoop_medium/back/scoop_medium_base_b.png",
+                                                    "highlight": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/necklines/blouse/scoop_medium/back/scoop_medium_highlight_b.png",
+                                                    "darken": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/necklines/blouse/scoop_medium/back/scoop_medium_shadow_b.png"
+                                                }
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "title": "Square Medium",
+                                    "length": [
+                                        {
+                                            "title": "Square Medium",
+                                            "image": {
+                                                "front": {
+                                                    "base": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/necklines/blouse/square_medium/front/square_medium_base_f.png",
+                                                    "highlight": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/necklines/blouse/square_medium/front/square_medium_highlight_f.png",
+                                                    "darken": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/necklines/blouse/square_medium/front/square_medium_shadow_f.png"
+                                                },
+                                                "back": {
+                                                    "base": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/necklines/blouse/square_medium/back/square_medium_base_b.png",
+                                                    "highlight": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/necklines/blouse/square_medium/back/square_medium_highlight_b.png",
+                                                    "darken": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/necklines/blouse/square_medium/back/square_medium_shadow_b.png"
+                                                }
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "title": "V Neck Medium",
+                                    "length": [
+                                        {
+                                            "title": "V Neck Medium",
+                                            "image": {
+                                                "front": {
+                                                    "base": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/necklines/blouse/v_neck_medium/front/v_neck_medium_base_f.png",
+                                                    "highlight": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/necklines/blouse/v_neck_medium/front/v_neck_medium_highlight_f.png",
+                                                    "darken": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/necklines/blouse/v_neck_medium/front/v_neck_medium_shadow_f.png"
+                                                },
+                                                "back": {
+                                                    "base": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/necklines/blouse/v_neck_medium/back/v_neck_medium_base_b.png",
+                                                    "highlight": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/necklines/blouse/v_neck_medium/back/v_neck_medium_highlight_b.png",
+                                                    "darken": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/necklines/blouse/v_neck_medium/back/v_neck_medium_shadow_b.png"
+                                                }
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "Sari",
+                "zindex": 8,
+                "type": {
+                    "title": "Type",
+                    "options": [
+                        {
+                            "title": "sari",
+                            "options": [
+                                {
+                                    "title": "Flowing Arm Drape",
+                                    "length": [
+                                        {
+                                            "title": "Floor Full Length",
+                                            "image": {
+                                                "front": {
+                                                    "base": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/sari/flowing_arm_drape/floor_full_length/front/floor_full_length_flowing_arm_drape_base_f.png",
+                                                    "highlight": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/sari/flowing_arm_drape/floor_full_length/front/floor_full_length_flowing_arm_drape_highlight_f.png",
+                                                    "darken": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/sari/flowing_arm_drape/floor_full_length/front/floor_full_length_flowing_arm_drape_shadow_f.png"
+                                                },
+                                                "back": {
+                                                    "base": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/sari/flowing_arm_drape/floor_full_length/back/floor_full_length_flowing_arm_drape_base_b.png",
+                                                    "highlight": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/sari/flowing_arm_drape/floor_full_length/back/floor_full_length_flowing_arm_drape_highlight_b.png",
+                                                    "darken": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/sari/flowing_arm_drape/floor_full_length/back/floor_full_length_flowing_arm_drape_shadow_b.png"
+                                                }
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "title": "Gown Saree",
+                                    "length": [
+                                        {
+                                            "title": "Floor Full Length",
+                                            "image": {
+                                                "front": {
+                                                    "base": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/sari/gown_saree/floor_full_length/front/floor_full_length_gown_saree_base_f.png",
+                                                    "highlight": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/sari/gown_saree/floor_full_length/front/floor_full_length_gown_saree_highlight_f.png",
+                                                    "darken": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/sari/gown_saree/floor_full_length/front/floor_full_length_gown_saree_shadow_f.png"
+                                                },
+                                                "back": {
+                                                    "base": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/sari/gown_saree/floor_full_length/back/floor_full_length_gown_saree_base_b.png",
+                                                    "highlight": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/sari/gown_saree/floor_full_length/back/floor_full_length_gown_saree_highlight_b.png",
+                                                    "darken": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/sari/gown_saree/floor_full_length/back/floor_full_length_gown_saree_shadow_b.png"
+                                                }
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "title": "Stiff Arm Drape",
+                                    "length": [
+                                        {
+                                            "title": "Floor Full Length",
+                                            "image": {
+                                                "front": {
+                                                    "base": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/sari/stiff_arm_drape/floor_full_length/front/floor_full_length_stiff_arm_drape_base_f.png",
+                                                    "highlight": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/sari/stiff_arm_drape/floor_full_length/front/floor_full_length_stiff_arm_drape_highlight_f.png",
+                                                    "darken": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/sari/stiff_arm_drape/floor_full_length/front/floor_full_length_stiff_arm_drape_shadow_f.png"
+                                                },
+                                                "back": {
+                                                    "base": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/sari/stiff_arm_drape/floor_full_length/back/floor_full_length_stiff_arm_drape_base_b.png",
+                                                    "highlight": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/sari/stiff_arm_drape/floor_full_length/back/floor_full_length_stiff_arm_drape_highlight_b.png",
+                                                    "darken": "https://d31x7su3lb1j37.cloudfront.net/outfitCustomisations/type/sari/stiff_arm_drape/floor_full_length/back/floor_full_length_stiff_arm_drape_shadow_b.png"
+                                                }
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}
